@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  guest_id: 1
+  people: MyString
+  start_time: 2021-10-30 14:13:57
+  end_time: 2021-10-30 14:13:57
+  usage_time: 1
+  hourly_rate: 1
+  billing_amount: 1
+  payment: 1
+  is_active: false
+
+two:
+  guest_id: 1
+  people: MyString
+  start_time: 2021-10-30 14:13:57
+  end_time: 2021-10-30 14:13:57
+  usage_time: 1
+  hourly_rate: 1
+  billing_amount: 1
+  payment: 1
+  is_active: false
